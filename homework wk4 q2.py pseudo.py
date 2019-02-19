@@ -1,8 +1,4 @@
-#*******************************************************
-#Program Name: 3.18 pg 153
-#Programmer: Jonathan Rios
-#CSC-119     Spring 2019
-#Date:02/18/2019
+
 #purpose: FOllow the pseudo code
     #when two points in time are compared each given as hours (in military time, ranging from 0-23)
     #and minutes, the following pseudocode determines which comes first
